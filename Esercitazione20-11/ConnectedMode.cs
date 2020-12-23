@@ -161,7 +161,7 @@ namespace Esercitazione20_11
 
 
                 // Eseguo il command (non mi aspetto niente di ritoro, quindi ExecuteNonQuery)
-                command.ExecuteNonQuery();
+                command.ExecuteNonQuery(); // avrei potuto ricavarmi le righe affected mettendo int number of rows = 
 
 
                 // chiusura connessione

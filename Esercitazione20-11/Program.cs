@@ -6,9 +6,9 @@ namespace Esercitazione20_11
     {
         static void Main(string[] args)
         {
-            // ConnectedMode.Connected();
+           ConnectedMode.Connected();
            ConnectedMode.ConnectedInsert();
-            ConnectedMode.ConnectedCheck();
+           ConnectedMode.ConnectedCheck();
         }
     }
 }
